@@ -15,5 +15,5 @@
       "apify": "^3.0.0",
       "crawlee": "^3.0.0",
       "playwright": "*"
-  },
+  }
 }
